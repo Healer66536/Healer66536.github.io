@@ -71,17 +71,17 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 062eeb9a0adf39976274
-  clientSecret: 3c319e4cf4a90b70809d7fd1b25e4c6c10376a10
-  repo: goldstine.github.io
-  owner: goldstine
+  clientID: Ov23ligRC1WPUPjnizd1
+  clientSecret: ee5618f4c329d6812171f363cd8fbe52dde97ca3
+  repo: healer66536.github.io
+  owner: healer66536
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-#google_analytics: 
+#google_analytics: G-TTXTE4Y2B3
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://goldstine.github.io
+url: https://healer66536.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
