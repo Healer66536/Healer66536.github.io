@@ -22,7 +22,7 @@ favicon: https://raw.githubusercontent.com/Healer66536/Picgo/main/%E6%97%BA%E4%B
 navigation:
   - name: 首页
     url: /
-  - name: 关于
+  - name: 关于我
     url: /about
   - name: 归档
     url: /archive
